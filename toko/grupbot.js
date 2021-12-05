@@ -8,8 +8,8 @@ _https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV_
 _https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE_
 3. *Alphabot Support 3*
 _https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy_
-4. *Alphabot Support 4* 
-_https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU_
+4. *GC GUA* 
+_https://chat.whatsapp.com/GH7baljKO24DnlKNgW8Dci_
 
 Jika ada link yang ke reset, silahkan hubungi
 owner untuk meminta link yang baru
