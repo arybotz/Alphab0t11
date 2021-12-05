@@ -193,9 +193,9 @@ autoketik = false
 autoregister = setting.user_register
 
 img = setting.img
-baper = 'SUB YT ZEEONE OFC'
-apiku = 'https://youtu.be/2rWbjrDIAyA'
-gc_wa_lu = 'https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV' //klo gk punya gc wa gk usah di ganti 👍
+baper = 'SUB YT Ary botz'
+apiku = 'https://bit.ly/3lsTt1h'
+gc_wa_lu = 'https://chat.whatsapp.com/JWMl9LW5g0i0RSj7ophXAk' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
 owner = targetpc
 fake = setting.fake
@@ -4213,12 +4213,12 @@ break
 if (!isGroup) return reply(lang.onlygc())
 					if (!isGroupAdmins) return reply(lang.onlygcAdmin())
 					if (!isBotGroupAdmins) return reply(lang.botNotAdm())
-              if (args[0].toLowerCase() === 'on'){
+              if (args[0] == 'on'){
               if (isAntiLink) return reply(lang.anjawaUdhOn(command))
               antilink.push(from)
               fs.writeFileSync('./src/antilink.json', JSON.stringify(antilink))
               reply(lang.anjawaOn(command))
-              } else if (args[0].toLowerCase() === 'off'){
+              } else if (args[0] == 'off'){
               let anu = antilink.indexOf(from)
               antilink.splice(anu, 1)
               fs.writeFileSync('./src/antilink.json', JSON.stringify(antilink))
